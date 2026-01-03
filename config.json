@@ -1,0 +1,352 @@
+{
+  "company": {
+    "name": "AspireTech",
+    "tagline": "Solutions",
+    "fullName": "AspireTech Solutions",
+    "description": "Your partner in digital transformation. Delivering custom website and Android app development solutions."
+  },
+  "contact": {
+    "email": "contact.aspiretechsolutions@gmail.com",
+    "phone": "+91 9420030642",
+    "phoneFormatted": "+91 9420030642",
+    "phoneRaw": "919420030642",
+    "workingHours": "Monday - Saturday: 8:00 AM - 7:00 PM",
+    "availability": "Available for new projects"
+  },
+  "hero": {
+    "title": "Transform Your Business with Custom Digital Solutions",
+    "subtitle": "Professional Website Development & Android App Development Services",
+    "description": "From static websites to full-stack applications, we create tailored solutions that help your business thrive in the digital world."
+  },
+  "pricing": {
+    "startingPrice": "₹5,000",
+    "priceSubtitle": "Get your business online in just 5-7 days"
+  },
+  "stats": {
+    "projectsCompleted": "50+",
+    "happyClients": "40+",
+    "yearsExperience": "3+",
+    "clientSatisfaction": "100%"
+  },
+  "whyWebsite": [
+    {
+      "number": "01",
+      "title": "24/7 Online Presence",
+      "description": "Your website works round the clock, showcasing your business to potential customers even when you're closed."
+    },
+    {
+      "number": "02",
+      "title": "Credibility & Trust",
+      "description": "A professional website builds trust and establishes your business as legitimate and reliable in your industry."
+    },
+    {
+      "number": "03",
+      "title": "Reach More Customers",
+      "description": "Expand beyond your local area and reach customers across cities, states, or even globally through your website."
+    },
+    {
+      "number": "04",
+      "title": "Showcase Products/Services",
+      "description": "Display your offerings with detailed information, images, and pricing to help customers make informed decisions."
+    },
+    {
+      "number": "05",
+      "title": "Cost-Effective Marketing",
+      "description": "Cheaper than traditional advertising, your website serves as a powerful marketing tool that works continuously."
+    },
+    {
+      "number": "06",
+      "title": "Stay Competitive",
+      "description": "Your competitors are online. Without a website, you're losing customers to businesses that have an online presence."
+    }
+  ],
+  "services": {
+    "website": {
+      "title": "Website Development",
+      "staticWebsite": {
+        "title": "Static Websites",
+        "description": "Professional 6-7 page websites perfect for showcasing your brand, products, and services.",
+        "features": [
+          "Responsive Design",
+          "SEO Optimized",
+          "Fast Loading Speed",
+          "Mobile Friendly",
+          "Contact Forms",
+          "Modern UI/UX"
+        ]
+      },
+      "fullStack": {
+        "title": "Full-Stack Applications",
+        "description": "Complete web solutions with backend, frontend, API, and database integration.",
+        "features": [
+          "Custom Backend Development",
+          "RESTful API Design",
+          "Database Architecture",
+          "User Authentication",
+          "Admin Dashboard",
+          "Third-party Integrations"
+        ]
+      },
+      "deployment": {
+        "title": "Website Deployment",
+        "description": "Complete deployment and hosting services to get your website live and running smoothly.",
+        "features": [
+          "Domain Setup",
+          "Cloud Hosting",
+          "SSL Certificate",
+          "Performance Optimization",
+          "Monitoring & Support",
+          "Regular Backups"
+        ]
+      }
+    },
+    "mobile": {
+      "title": "Android App Development",
+      "nativeApp": {
+        "title": "Native Android Apps",
+        "description": "High-performance native Android applications built with modern tools and best practices.",
+        "features": [
+          "Native Performance",
+          "Material Design UI",
+          "Offline Functionality",
+          "Push Notifications",
+          "API Integration",
+          "Play Store Publishing"
+        ]
+      },
+      "customFeatures": {
+        "title": "Custom Features",
+        "description": "Tailored app features designed specifically for your business requirements and goals.",
+        "features": [
+          "User Authentication",
+          "Real-time Updates",
+          "Payment Integration",
+          "Location Services",
+          "Camera & Media",
+          "Analytics Dashboard"
+        ]
+      }
+    }
+  },
+  "technologies": {
+    "frontend": ["React", "JavaScript", "HTML5", "Tailwind CSS", "Bootstrap"],
+    "backend": ["Java", "Spring Boot", "MySQL", "PostgreSQL"],
+    "mobile": ["Android SDK", "Java/Kotlin", "Material Design"],
+    "tools": ["Git", "Docker", "Cloud Hosting", "CI/CD"]
+  },
+  "process": [
+    {
+      "number": "01",
+      "title": "Discovery & Planning",
+      "description": "Understanding your business requirements, target audience, and project goals. We analyze your needs and create a detailed project roadmap."
+    },
+    {
+      "number": "02",
+      "title": "Design & Architecture",
+      "description": "Creating wireframes, mockups, and technical architecture. We design the user interface and plan the database structure and API endpoints."
+    },
+    {
+      "number": "03",
+      "title": "Development",
+      "description": "Building your solution with clean, maintainable code following best practices. Regular updates keep you informed of progress."
+    },
+    {
+      "number": "04",
+      "title": "Testing & Quality Assurance",
+      "description": "Comprehensive testing across devices and browsers to ensure everything works perfectly. Bug fixes and performance optimization."
+    },
+    {
+      "number": "05",
+      "title": "Deployment & Support",
+      "description": "Deploying your project to production with proper configuration. Ongoing support and maintenance to keep everything running smoothly."
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Custom Solutions",
+      "description": "Every project is tailored to your specific business needs and goals, not one-size-fits-all templates."
+    },
+    {
+      "title": "Timely Delivery",
+      "description": "We respect deadlines and deliver projects on time without compromising on quality."
+    },
+    {
+      "title": "Clear Communication",
+      "description": "Regular updates and transparent communication throughout the project lifecycle."
+    },
+    {
+      "title": "Modern Technologies",
+      "description": "Using the latest tools and frameworks to build scalable and maintainable solutions."
+    },
+    {
+      "title": "Quality Assurance",
+      "description": "Rigorous testing ensures your project is bug-free and performs optimally."
+    },
+    {
+      "title": "Post-Launch Support",
+      "description": "Continued support and maintenance to ensure your project stays up and running."
+    }
+  ],
+  "industries": {
+    "title": "Industries We Serve",
+    "subtitle": "Delivering tailored digital solutions across diverse sectors",
+    "sectors": [
+      {
+        "id": 1,
+        "name": "E-commerce & Retail",
+        "icon": "shopping",
+        "description": "Building scalable online stores, inventory management systems, and seamless checkout experiences that drive sales and customer loyalty.",
+        "projects": "15+ projects delivered",
+        "technologies": ["React", "Spring Boot", "Payment Gateways"]
+      },
+      {
+        "id": 2,
+        "name": "Healthcare & Wellness",
+        "icon": "health",
+        "description": "Developing HIPAA-compliant patient portals, telemedicine platforms, and health tracking applications that improve care delivery.",
+        "projects": "12+ projects delivered",
+        "technologies": ["Secure APIs", "Data Encryption", "Cloud Hosting"]
+      },
+      {
+        "id": 3,
+        "name": "Education & E-learning",
+        "icon": "education",
+        "description": "Creating interactive learning platforms, student management systems, and online course delivery solutions for modern education.",
+        "projects": "10+ projects delivered",
+        "technologies": ["React", "Video Streaming", "Real-time Features"]
+      },
+      {
+        "id": 4,
+        "name": "Finance & Fintech",
+        "icon": "finance",
+        "description": "Building secure banking applications, payment processing systems, and financial management tools with robust security measures.",
+        "projects": "8+ projects delivered",
+        "technologies": ["Spring Boot", "Encryption", "Compliance"]
+      },
+      {
+        "id": 5,
+        "name": "Real Estate & PropTech",
+        "icon": "property",
+        "description": "Developing property listing platforms, virtual tour systems, and real estate management solutions that streamline operations.",
+        "projects": "10+ projects delivered",
+        "technologies": ["Maps Integration", "Image Processing", "CRM"]
+      },
+      {
+        "id": 6,
+        "name": "Food & Hospitality",
+        "icon": "restaurant",
+        "description": "Creating restaurant management systems, food delivery apps, and reservation platforms that enhance customer experience.",
+        "projects": "14+ projects delivered",
+        "technologies": ["Real-time Orders", "Payment Integration", "GPS"]
+      }
+    ]
+  },
+  "careers": {
+    "title": "Join Our Team",
+    "subtitle": "We're looking for talented developers to join our growing team",
+    "openings": [
+      {
+        "id": 1,
+        "title": "Junior Frontend Developer",
+        "department": "Frontend Development",
+        "experience": "0-2 years",
+        "location": "Remote / Hybrid",
+        "type": "Full-time",
+        "description": "We're seeking a passionate Junior Frontend Developer to join our team. You'll work on creating beautiful, responsive user interfaces using React and modern CSS frameworks.",
+        "requirements": [
+          "Basic knowledge of HTML, CSS, JavaScript",
+          "Familiarity with React or similar frameworks",
+          "Understanding of responsive design principles",
+          "Good problem-solving skills",
+          "Willingness to learn and grow"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Frontend Developer",
+        "department": "Frontend Development",
+        "experience": "2-4 years",
+        "location": "Remote / Hybrid",
+        "type": "Full-time",
+        "description": "Looking for an experienced Frontend Developer to build scalable web applications. You'll collaborate with designers and backend developers to create exceptional user experiences.",
+        "requirements": [
+          "Strong proficiency in React, JavaScript/TypeScript",
+          "Experience with Tailwind CSS or Bootstrap",
+          "Knowledge of state management (Redux, Context API)",
+          "Understanding of RESTful APIs",
+          "Experience with Git and modern development workflows"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Senior Frontend Developer",
+        "department": "Frontend Development",
+        "experience": "5+ years",
+        "location": "Remote / Hybrid",
+        "type": "Full-time",
+        "description": "We're hiring a Senior Frontend Developer to lead our frontend initiatives. You'll architect solutions, mentor junior developers, and ensure code quality across projects.",
+        "requirements": [
+          "Expert-level React and JavaScript/TypeScript skills",
+          "Experience with performance optimization",
+          "Strong understanding of design patterns and architecture",
+          "Leadership and mentoring abilities",
+          "Experience with testing frameworks (Jest, React Testing Library)"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Backend Developer",
+        "department": "Backend Development",
+        "experience": "2-4 years",
+        "location": "Remote / Hybrid",
+        "type": "Full-time",
+        "description": "Seeking a skilled Backend Developer to build robust server-side applications. You'll design and implement RESTful APIs, optimize database queries, and ensure application security.",
+        "requirements": [
+          "Strong knowledge of Java and Spring Boot",
+          "Experience with MySQL or PostgreSQL",
+          "Understanding of RESTful API design",
+          "Knowledge of authentication and security best practices",
+          "Experience with cloud platforms (AWS, Azure, or GCP)"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Senior Backend Developer",
+        "department": "Backend Development",
+        "experience": "5+ years",
+        "location": "Remote / Hybrid",
+        "type": "Full-time",
+        "description": "Looking for a Senior Backend Developer to architect and lead backend development. You'll design scalable systems, optimize performance, and mentor the backend team.",
+        "requirements": [
+          "Expert-level Java and Spring Boot expertise",
+          "Strong database design and optimization skills",
+          "Experience with microservices architecture",
+          "Knowledge of Docker, Kubernetes, and CI/CD",
+          "Leadership experience and ability to mentor developers"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "services": [
+      { "name": "Static Websites", "link": "#services" },
+      { "name": "Full-Stack Development", "link": "#services" },
+      { "name": "Android Apps", "link": "#services" },
+      { "name": "Website Deployment", "link": "#services" }
+    ],
+    "quickLinks": [
+      { "name": "Home", "link": "#home" },
+      { "name": "Services", "link": "#services" },
+      { "name": "Technologies", "link": "#technologies" },
+      { "name": "Industries", "link": "#industries" },
+      { "name": "Careers", "link": "#careers" },
+      { "name": "Contact", "link": "#contact" }
+    ]
+  },
+  "seo": {
+    "title": "AspireTech Solutions - Website & Android App Development",
+    "description": "Professional Website & Android App Development Services - Custom solutions for your business",
+    "keywords": "web development, android app, react, java spring boot, freelance developer"
+  },
+  "copyrightYear": "2026"
+}
